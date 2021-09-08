@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Rock64 Power Distribution Library")(type Legacy)(uri "${KIPRJMOD}/Rock64 Power Distribution Library.lib")(options "")(descr ""))
+  (lib (name Power-Distribution-Board-Rock64-rescue)(type Legacy)(uri "${KIPRJMOD}/Power Distribution Board Rock64-rescue.lib")(options "")(descr ""))
+)
