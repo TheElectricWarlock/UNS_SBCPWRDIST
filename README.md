@@ -8,9 +8,9 @@ These are the design files for a DIY power distribution board for Single Board C
 
 This design contains the following features:
 <ul>
-<li>6 USB A ports./li>
+<li>6 USB A ports.</li>
 <li>Up to 4A per USB port.</li>
-<li>Compatible with most ATX power supplies./li>
+<li>Compatible with most ATX power supplies.</li>
 <li>Decoupling Capacitance for each port.</li>
 <li>Optional JST connections for each port. </li>
 <li>Optional external power switch input for each port. </li>
